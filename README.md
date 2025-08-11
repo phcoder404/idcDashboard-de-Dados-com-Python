@@ -25,16 +25,6 @@ Este projeto foi desenvolvido durante uma **imersão em dados com Python**, no q
 - `app.py` → Código principal da dashboard  
 - `requirements.txt` → Lista de dependências para execução  
 
-## 🔧 Como Executar o Projeto Localmente
-1. **Clonar o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-pip install -r requirements.txt
-streamlit run app.py
 
 ## 🌐 Dados Utilizados
 
