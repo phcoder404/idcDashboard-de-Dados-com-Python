@@ -42,8 +42,7 @@ df_filtrado = df[
 ]
 
 # --- Conteúdo Principal ---
-st.image(r"C:\Users\Pedro Henrique\Documents\Imgem\dashboard.png", width=150)  # Use r"" para evitar erro de unicode
-st.title(" Dashboard de Análise de Salários na Área de Dados")
+st.title("📊Dashboard de Análise de Salários na Área de Dados")
 st.markdown("Explore os dados salariais na área de dados nos últimos anos. Utilize os filtros à esquerda para refinar sua análise.")
 
 # --- Métricas Principais (KPIs) ---
@@ -136,4 +135,5 @@ with col_graf4:
 
 # --- Tabela de Dados Detalhados ---
 st.subheader("Dados Detalhados")
+
 st.dataframe(df_filtrado)
