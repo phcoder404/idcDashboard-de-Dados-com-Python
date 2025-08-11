@@ -39,5 +39,4 @@ O dataset é carregado diretamente de um arquivo CSV hospedado no GitHub, conten
 - **Salário em USD**
 
 📂 [Acesse o dataset aqui](https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv)  
-📊 [Visualizar dashboard online]([[https://SEU-LINK-DO-STREAMLIT](https://data-dashboard-python.streamlit.app/)](https://data-dashboard-python.streamlit.app/))
-
+📊 [Visualizar dashboard online](https://data-dashboard-python.streamlit.app/)
