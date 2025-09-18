@@ -161,7 +161,9 @@ with col_graf4:
 st.subheader("Dados Detalhados")
 
 st.dataframe(df_filtrado)  
-- `requirements.txt` → Lista de dependências para execução  
+- `requirements.txt` → pandas==2.2.3
+                       streamlit==1.44.1
+                       plotly==5.24.1  
 
 
 ## 🌐 Dados Utilizados
