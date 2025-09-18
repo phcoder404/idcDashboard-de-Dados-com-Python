@@ -19,7 +19,7 @@ Este projeto foi desenvolvido durante uma **imersão em dados com Python**, no q
 - **Tabela detalhada** com os dados filtrados
 
 ## 📷 Demonstração
-*(Adicione aqui um print ou GIF da sua dashboard)*
+![Dashboard](print.png)
 
 ## 📂 Estrutura do Projeto
 - `app.py` → " import streamlit as st
